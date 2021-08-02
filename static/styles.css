@@ -1,0 +1,26 @@
+.heading{
+    margin-top: 15px;
+}
+
+.formStyleMarginTop{
+    margin-top: 25px;
+}
+
+.todoTitleInput{
+    margin-left: 20px;
+}
+
+.todoItems{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+.todoInfo{
+    font-size: 25px;
+}
+
+.nonCompleteButton{}
+
+.completedButton{}
